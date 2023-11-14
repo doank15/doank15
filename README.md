@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Doan
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js & Golang
 - 📫 How to reach me maidoan709@gmail.com
 
 <!---
