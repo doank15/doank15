@@ -24,8 +24,6 @@ I'm a passionate developer on a journey to master Node.js and Golang. I love bui
 
 [![Doan's GitHub stats](https://github-readme-stats.vercel.app/api?username=doank15&show_icons=true&theme=radical)](https://github.com/doank15)
 
-## 🌟 Featured Projects
-
 ## 📫 Let's Connect!
 
 - Email: maidoan709@gmail.com
