@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer on a journey to master Node.js and Golang. I love building innovative solutions and contributing to open-source projects.
+I'm a passionate developer on a journey to master Node.js, Golang and Java. I love building innovative solutions and contributing to open-source projects.
 
 - 🌱 I'm currently learning **Node.js** and **Golang**
 - 💡 I'm interested in backend development and microservices architecture
